@@ -30,7 +30,6 @@ Exploratory Data Analysis (EDA) has been carried out to prepare a nice and suita
 employed for machine learning (ML) approaches.
 
 Various methods to design linear regression models have been explored in this notebook. 
-The hyperparameters are chosen systematically.
 
 A final model is obtained for the prediction of the premium price using the available features in the dataset.
 

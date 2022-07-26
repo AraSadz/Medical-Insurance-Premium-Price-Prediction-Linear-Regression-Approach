@@ -6,25 +6,25 @@ https://www.kaggle.com/datasets/tejashvi14/medical-insurance-premium-prediction
 
 
 Table of contents: 
-•	Loading Data
-•	Data Exploration and Cleaning
-  	Data Features
-  	Delete Outliers
-    Select Features
-    Select Categorical Features
-    Convert Categorical Features
-    Determining Normality
-•	Linear Regression
-  A simple Linear Regression
-•	Linear Regression with Regularization
-  Ridge
-  Lasso
-  Elastic Net
-  Linear Regression Results
-  Linear Regression: Cross-Validation
-  Linear Regression: Different Scalers
-  Linear Regression: Hyperparameter Tuning
-•	Final Model
+•	Loading Data-
+•	Data Exploration and Cleaning-
+  	Data Features-
+  	Delete Outliers-
+    Select Features-
+    Select Categorical Features-
+    Convert Categorical Features-
+    Determining Normality-
+•	Linear Regression-
+  A simple Linear Regression-
+•	Linear Regression with Regularization-
+  Ridge-
+  Lasso-
+  Elastic Net-
+  Linear Regression Results-
+  Linear Regression: Cross-Validation-
+  Linear Regression: Different Scalers-
+  Linear Regression: Hyperparameter Tuning-
+•	Final Model-
 
 Exploratory Data Analysis (EDA) has been carried out to prepare a nice and suitable dataset to be 
 employed for machine learning (ML) approaches.

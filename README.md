@@ -1,4 +1,4 @@
-# Medical-Insurance-Premium-Price-Prediction-Linear-Regression-Approach
+# Medical Insurance Premium Price Prediction: Linear Regression Approach
 A notebook to predict the medical premium price using a linear regression model
 
 Data for this notebook can be retrieved from the following address:
